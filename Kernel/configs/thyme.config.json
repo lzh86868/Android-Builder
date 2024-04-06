@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Proton）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "redmik20pro",
+      "repo": "https://github.com/F1xy-kernels/RAPHAEL_Kernel.git",
+      "branch": "R-raphael",
+      "device": "raphael",
+      "defconfig": "raphael_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
@@ -42,7 +42,7 @@
       "release": true
     },
     "enableKernelSU": true,
-    "enableLXC": false
+    "enableLXC": true
   },
   {
     "kernelSource": {
