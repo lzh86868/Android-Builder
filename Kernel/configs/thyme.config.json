@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "redmik20proz",
-      "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_raphael.git",
-      "branch": "android11",
+      "name": "redmik20pro1a",
+      "repo": "https://github.com/lzh86868/android_kernel_xiaomi_sm8150.git",
+      "branch": "lineage-19.1",
       "device": "raphael",
       "defconfig": "raphael_defconfig"
     },
