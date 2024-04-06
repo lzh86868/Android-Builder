@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "redmik20prox",
-      "repo": "https://github.com/penglezos/kernel_xiaomi_raphael.git",
+      "name": "redmik20proz",
+      "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_raphael.git",
       "branch": "android-11",
       "device": "raphael",
       "defconfig": "raphael_defconfig"
