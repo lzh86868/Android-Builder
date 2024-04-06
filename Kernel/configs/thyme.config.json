@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "redmik20pro",
-      "repo": "https://github.com/F1xy-kernels/RAPHAEL_Kernel.git",
-      "branch": "R-raphael",
+      "name": "redmik20prox",
+      "repo": "https://github.com/penglezos/kernel_xiaomi_raphael.git",
+      "branch": "lineage-20",
       "device": "raphael",
       "defconfig": "raphael_defconfig"
     },
