@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "redmik20pro1d",
+      "name": "redmik20pro1e",
       "repo": "https://github.com/lzh86868/k20pro.git",
       "branch": "master",
       "device": "raphael",
@@ -42,7 +42,7 @@
       "release": true
     },
     "enableKernelSU": false,
-    "enableLXC": false
+    "enableLXC": true
   }
 
 ]
